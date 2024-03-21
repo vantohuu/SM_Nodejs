@@ -1,2 +1,2 @@
 "# SM_Nodejs" 
-"# SM_Nodejs" 
+## Project SMeeting nodejs backend
